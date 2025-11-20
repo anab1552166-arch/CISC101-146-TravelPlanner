@@ -1,7 +1,7 @@
 
-# Change log: 2025-11-20 - updated module 2 to include more standardized fields, fallback rules, thresholds, indoor/outdoor bias, and duplication prevention.
-
 Module 2 - Plan builder (options/days)
+
+# Change log: 2025-11-20 - updated module 2 to include more standardized fields, fallback rules, thresholds, indoor/outdoor bias, and duplication prevention.
 
 Purpose:
 This part makes a list of possible activities and then builds each day's plan in a simple way:
